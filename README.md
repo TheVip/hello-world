@@ -1,2 +1,6 @@
 # hello-world
 just started learning github....
+
+world of programmers, i am coming soon
+
+# I want to be, i mean i'll be a great programmer one day...
